@@ -1,7 +1,7 @@
 class Girl extends BaseClass {
     constructor(x, y) {
         super(x, y, 50, 50);
-        this.image = loadImage("sprites/enemy.png");
+        this.image = loadImage("girl.jpeg");
         this.Visiblity = 255;
     }
 
